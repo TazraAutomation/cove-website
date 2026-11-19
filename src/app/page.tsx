@@ -245,7 +245,7 @@ export default function Home() {
         </div>
 
         <div className="footer-location">
-          <p>Dallas, Texas</p>
+          
           <p>Technology Procurement & Advisory</p>
           <p>© 2026 Cove.</p>
         </div>
