@@ -29,9 +29,8 @@ export default function Consultation() {
             <p className="font-semibold text-[#29463D]">
               Cove
             </p>
-            <p className="text-[#52615A] mt-2">
-              Dallas, Texas
-            </p>
+            
+          
             <p className="text-[#52615A] mt-2">
               Technology Procurement & Commercial Advisory
             </p>
